@@ -3,6 +3,7 @@
 #include <gx2/display.h>
 #include <gx2/surface.h>
 #include <gx2/state.h>
+#include <gx2/registers.h>
 #include <gx2/enum.h>
 #include <cstdint>
 
